@@ -5,6 +5,9 @@
 
 Software de microcontrolador para la fabricación automática de pizza.
 
+## Nombres:
+Katherin Juliana Moreno Carvajal, Santiago Navarro Cuy y Mariana Salas Gutiérrez
+
 #### Parte I. 
 El siguiente, es un modelo de clases de una aplicación que se comunica con un microcontrolador encargado de la fabricación automática de pizzas. Dichas clases encapsulan la lógica para amasar, hornear y moldear pizzas de las pizzas delgadas.
 
