@@ -1,0 +1,7 @@
+com\balitechy\spacewar\main\SpritesImageLoader.class
+com\balitechy\spacewar\main\InputHandler.class
+com\balitechy\spacewar\main\BackgroundRenderer.class
+com\balitechy\spacewar\main\BulletController.class
+com\balitechy\spacewar\main\Bullet.class
+com\balitechy\spacewar\main\Game.class
+com\balitechy\spacewar\main\Player.class
