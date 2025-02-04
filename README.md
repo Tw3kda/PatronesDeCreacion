@@ -1,6 +1,7 @@
 ## Nombres
 Katherin Juliana Moreno Carvajal, Santiago Navarro Cuy y Mariana Salas Gutiérrez
 
+
 # Universidad de la Sabana
 ## Diseño y Arquitectura de Software
 
@@ -12,6 +13,12 @@ Katherin Juliana Moreno Carvajal, Santiago Navarro Cuy y Mariana Salas Gutiérre
 
 #### 4. Modelo de clases
 ![Imagen](https://github.com/Tw3kda/PatronesDeCreacion/raw/main/modelo.png) 
+
+### Parte II
+
+####![Imagen](![Clase UML](https://github.com/user-attachments/assets/42bd5cd4-b839-4142-a31b-b41b98c553a3)
+) 
+
 
 
 ### Instrucciones
