@@ -41,8 +41,6 @@ public class ColorPlayer extends Player {
             // Rellenar el triángulo exterior con color morado
             g2d.setColor(OUTER_COLOR);
             g2d.fillPolygon(xPoints, yPoints, 3);
-            
-            // Dibujar el contorno del triángulo exterior con un color más oscuro
             g2d.setColor(BORDER_COLOR);
             g2d.drawPolygon(xPoints, yPoints, 3);
             
@@ -61,8 +59,6 @@ public class ColorPlayer extends Player {
             // Rellenar el triángulo interior con color rosa
             g2d.setColor(INNER_COLOR);
             g2d.fillPolygon(innerXPoints, innerYPoints, 3);
-            
-            // Dibujar el contorno del triángulo interior con el mismo color de borde
             g2d.setColor(BORDER_COLOR);
             g2d.drawPolygon(innerXPoints, innerYPoints, 3);
         }
