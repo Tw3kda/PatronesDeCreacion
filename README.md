@@ -6,20 +6,14 @@ Katherin Juliana Moreno Carvajal, Santiago Navarro Cuy y Mariana Salas Gutiérre
 ## Diseño y Arquitectura de Software
 
 
-### Parte I.
+### Parte II.
 
 #### 3. Diagrama de clases
-![Imagen](https://github.com/Tw3kda/PatronesDeCreacion/raw/main/diagrama.png) 
-
-#### 4. Modelo de clases
-![Imagen](https://github.com/Tw3kda/PatronesDeCreacion/raw/main/modelo.png) 
-
-### Parte II
-
-### Digrama de clases 
 ![Clase UML](https://github.com/user-attachments/assets/42bd5cd4-b839-4142-a31b-b41b98c553a3)
 
 
+#### 4. Modelo de clases
+![Imagen](https://github.com/Tw3kda/PatronesDeCreacion/raw/main/modelo.png) 
 
 
 ### Instrucciones
