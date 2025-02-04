@@ -16,8 +16,9 @@ Katherin Juliana Moreno Carvajal, Santiago Navarro Cuy y Mariana Salas Gutiérre
 
 ### Parte II
 
-####![Imagen](![Clase UML](https://github.com/user-attachments/assets/42bd5cd4-b839-4142-a31b-b41b98c553a3)
-) 
+### Digrama de clases 
+![Clase UML](https://github.com/user-attachments/assets/42bd5cd4-b839-4142-a31b-b41b98c553a3)
+
 
 
 
