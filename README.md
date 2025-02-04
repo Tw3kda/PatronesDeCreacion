@@ -5,6 +5,16 @@ Katherin Juliana Moreno Carvajal, Santiago Navarro Cuy y Mariana Salas Gutiérre
 ## Diseño y Arquitectura de Software
 
 
+### Parte I.
+
+#### 3. Diagrama de clases
+![Imagen](https://github.com/Tw3kda/PatronesDeCreacion/raw/main/diagrama.png) 
+
+#### 4. Modelo de clases
+![Imagen](https://github.com/Tw3kda/PatronesDeCreacion/raw/main/modelo.png) 
+
+
+### Instrucciones
 
 Software de microcontrolador para la fabricación automática de pizza.
 
@@ -128,10 +138,3 @@ Una vez hecho lo anterior, valide que se da el desacoplamiento: en ninguna parte
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este contenido hace parte del curso Procesos de Desarrollo de Software del programa de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería, y está licenciado como <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-
-
-### 3. Diagrama de clases
-![Imagen](https://github.com/Tw3kda/PatronesDeCreacion/raw/main/diagrama.png) 
-
-### 4. Modelo de clases
-![Imagen](https://github.com/Tw3kda/PatronesDeCreacion/raw/main/modelo.png) 
